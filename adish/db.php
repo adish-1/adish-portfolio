@@ -1,8 +1,8 @@
 <?php
-$host="sql100.infinityfree.com";
-$dbuser="if0_41420726";
-$dbpass="LTp2R8ZmOJCFda9";
-$dbname="if0_41420726_portfolio";
+$host="your_host";
+$dbuser="your_username";
+$dbpass="your_password";
+$dbname="your_db_name";
 
 $conn=mysqli_connect($host,$dbuser,$dbpass,$dbname);
 
